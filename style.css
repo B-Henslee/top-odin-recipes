@@ -1,0 +1,19 @@
+*{
+    background-color: beige;
+}
+.container{
+margin: 0px auto 0px auto;
+width: 1400px;
+}
+.center{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.center ul, .center li{
+    list-style: none;
+    display: inline;
+    padding: 0px 15px 0px 15px;
+}
